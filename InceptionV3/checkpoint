@@ -1,0 +1,2 @@
+model_checkpoint_path: "inceptionV3_concrete_crack_detection"
+all_model_checkpoint_paths: "inceptionV3_concrete_crack_detection"
