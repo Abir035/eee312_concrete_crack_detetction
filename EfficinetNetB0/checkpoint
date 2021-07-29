@@ -1,0 +1,2 @@
+model_checkpoint_path: "efficientnet_concrete_crack_detection"
+all_model_checkpoint_paths: "efficientnet_concrete_crack_detection"
