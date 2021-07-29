@@ -1,0 +1,5 @@
+Datasets:
+
+Mendeley Data: https://www.kaggle.com/abirshomit/mendeley-dataset
+
+Mendeley and SDNET : https://www.kaggle.com/abirshomit/mendeley-and-sdnet
